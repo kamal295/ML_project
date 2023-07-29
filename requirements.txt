@@ -1,6 +1,7 @@
 pandas
 numpy
 seaborn
+flask
 ipykernel
 matplotlib
 scikit-learn
